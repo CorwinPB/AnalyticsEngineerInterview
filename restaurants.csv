@@ -1,0 +1,76 @@
+restaurant_id,restaurant_name,cuisine_type,city
+1,Griffin-Baker,Indian,Diazmouth
+2,Johnson Ltd,Mexican,Ballbury
+3,Brewer-Rivera,Mexican,Gonzalezhaven
+4,White-Shaw,Italian,Port Jamesland
+5,Leblanc-Burns,Italian,South Jacobland
+6,Griffin-Gonzalez,Chinese,Lake Heather
+7,"Hess, Keller and Mueller",Indian,New Cathychester
+8,Gutierrez and Sons,Fast Food,Martinshire
+9,Martinez-Tate,Japanese,South Jesseport
+10,"Mendoza, Jones and Lee",Mexican,Haynesville
+11,Trujillo Ltd,Japanese,South Jesus
+12,"Yang, Parsons and Carter",Fast Food,Ericfort
+13,"Anderson, Fernandez and Lambert",Mexican,Hillchester
+14,"Bean, Robertson and Jones",Italian,Kimberlyborough
+15,Hill-Martin,Mexican,Lake Scottbury
+16,Vazquez-Spencer,Indian,New Jennifer
+17,Hutchinson Inc,Japanese,Morganbury
+18,Phillips PLC,Italian,West Todd
+19,English Inc,Chinese,Davenportton
+20,White Ltd,Japanese,Kathleentown
+21,Ramos Ltd,Italian,Susanview
+22,"Larson, Russell and Garcia",Mexican,South Abigailport
+23,"Shaffer, Rollins and Jones",Fast Food,West Christopher
+24,Wilkins-Gonzalez,Indian,Mcdanielbury
+25,Stanley-Ward,Japanese,Andreastad
+26,Lee-Frazier,Fast Food,East Darlenetown
+27,Jones-Webster,Mexican,Gomezton
+28,White-Rice,Indian,West Mallorymouth
+29,Wise Inc,Japanese,Lake Andrea
+30,Le-Tran,Mexican,Grahamton
+31,Thomas Ltd,Chinese,Sarahfurt
+32,"Holloway, Alvarado and Hernandez",Fast Food,West Ashley
+33,"Everett, Jones and Krueger",Mexican,Lake Keith
+34,Robinson-Baldwin,Indian,Raymondchester
+35,Taylor and Sons,Fast Food,South Glen
+36,Mccormick PLC,Indian,New Brandon
+37,Cunningham-Hernandez,Indian,Dianehaven
+38,Perez Inc,Italian,Lake Rebeccamouth
+39,Wright Ltd,Italian,Grahamtown
+40,"Davis, Miller and Mcbride",Mexican,Dixonport
+41,Coleman Ltd,Mexican,West Angela
+42,Mitchell-Jones,Mexican,West Julie
+43,Simpson-Eaton,Chinese,North Jeffrey
+44,Garcia-Cooley,Fast Food,East Matthewside
+45,Castillo-Hogan,Italian,Heatherport
+46,Montes-Howell,Italian,North Kimberly
+47,"Day, Ayers and Thompson",Italian,South Kayla
+48,Brown-Gordon,Japanese,Veronicaton
+49,Cohen-Bishop,Indian,Lake Megan
+50,Turner-Morse,Italian,New Christopher
+0,is test restaurant,Without Menu,New Gailport
+-1,is test restaurant,Fraud,Port Maria
+-2,is test restaurant,Without Menu,East Jennifer
+-3,is test restaurant,Fraud,Port Sarahborough
+-4,is test restaurant,Fraud,North Sandra
+-5,is test restaurant,Without Menu,New Sierraland
+-6,is test restaurant,Opening,Lake Teresamouth
+-7,is test restaurant,Fraud,Jacobfort
+-8,is test restaurant,Opening,Hooperhaven
+-9,is test restaurant,Test-v2,Tanyahaven
+-10,is test restaurant,Opening,Lake Meghanmouth
+-11,is test restaurant,Test-v2,Petersview
+-12,is test restaurant,Opening,North Todd
+-13,is test restaurant,Test-v2,South Jasmine
+-14,is test restaurant,Offline,New Ericborough
+-15,is test restaurant,Test,Chelseaburgh
+-16,is test restaurant,Test,Lake Katie
+-17,is test restaurant,Fraud,Port Alanhaven
+-18,is test restaurant,Opening,Rickymouth
+-19,is test restaurant,Fraud,Zimmermanmouth
+-20,is test restaurant,Offline,New Yvonneborough
+-21,is test restaurant,Fraud,South Jason
+-22,is test restaurant,Without Menu,Lake Thomas
+-23,is test restaurant,Opening,Sloanview
+-24,is test restaurant,Test,East Annettemouth
